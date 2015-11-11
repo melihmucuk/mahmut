@@ -15,7 +15,7 @@ func Bagla(key string, text string) string {
 	k := len(key)
 	switch k {
 	default:
-		panic("key lenght must be 16, 24 or 32")
+		panic("key length must be 16, 24 or 32")
 	case 16, 24, 32:
 		break
 	}
@@ -44,7 +44,7 @@ func Coz(key string, cryptoText string) string {
 	k := len(key)
 	switch k {
 	default:
-		panic("key lenght must be 16, 24 or 32")
+		panic("key length must be 16, 24 or 32")
 	case 16, 24, 32:
 		break
 	}
