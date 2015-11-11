@@ -1,12 +1,10 @@
 # mahmut
 A tiny encryption library for golang.
 
-###Installation
-
+#Installation
 `go get -u github.com/melihmucuk/mahmut`
 
-###Usage
-
+#Usage
 import package
 
 `import "github.com/melihmucuk/mahmut"`
@@ -25,6 +23,5 @@ fmt.Println(decryptedText)
 // output: mahmut sıkı bağla da düşmeyelim yeğenim
 </code></pre>
 
-###Notes
-
+#Notes
 `key` length must be 16, 24 or 32 chars.
