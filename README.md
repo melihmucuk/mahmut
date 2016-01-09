@@ -1,4 +1,4 @@
-# mahmut
+# mahmut  [![GoDoc](https://godoc.org/github.com/melihmucuk/mahmut?status.svg)](https://godoc.org/github.com/melihmucuk/mahmut) [![Circle CI](https://circleci.com/gh/melihmucuk/mahmut.svg?style=svg)](https://circleci.com/gh/melihmucuk/mahmut)
 A tiny encryption library for golang.
 
 #Installation
